@@ -1,0 +1,9 @@
+{"text": "Can you help me fix this bug?", "label": "text"}
+{"text": "I think the issue is in the loop logic.", "label": "text"}
+{"text": "def calculate_sum(a, b):", "label": "code"}
+{"text": "    return a + b", "label": "code"}
+{"text": "print(calculate_sum(5, 10))", "label": "code"}
+{"text": "2023-12-01 12:00:00 [INFO] Service started successfully", "label": "logs"}
+{"text": "2023-12-01 12:00:05 [ERROR] Connection timed out", "label": "logs"}
+{"text": "   ", "label": "none"}
+{"text": "", "label": "none"}
