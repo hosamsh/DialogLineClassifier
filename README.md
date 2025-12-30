@@ -1,6 +1,6 @@
-# Dialogue Structure Model
+# Dialogue Line Classifier
 
-This is a lightweight tool that figures out what individual lines in a chat log actually *are*—whether they're normal text, code, system logs, or just empty noise.
+This is a lightweight tool that figures out whether individual lines in a chat log are normal text, code, system logs, or just empty / noise.
 
 It's mainly built for analyzing conversations with **coding agents**. When you're trying to investigate an agent's behavior, you usually don't want to wade through pages of stack traces or random boilerplate code. This model helps you spot those "technical blocks" so you can shrink them down and focus on the actual conversation.
 
