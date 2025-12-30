@@ -21,3 +21,7 @@ dist/
 
 # Note: I'm keeping 'model/trained_model.pkl' so users can run inference 
 # immediately without needing to train their own model first.
+
+# Dataset
+full-set.jsonl
+dataset/full-set.jsonl
