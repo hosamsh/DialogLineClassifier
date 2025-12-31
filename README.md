@@ -1,4 +1,4 @@
-# Dialogue Line Classifier
+# Dialog Line Classifier
 
 This is a lightweight tool that figures out whether individual lines in a chat log are normal text, code, system logs, or just empty / noise.
 
